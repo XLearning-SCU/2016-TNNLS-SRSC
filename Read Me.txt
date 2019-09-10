@@ -1,0 +1,25 @@
+%% **************
+% the code is provided to repduce our result reported in our paper [A2]. NOTE THAT [A2] is a journal extension of our AAAI'15 paper [A1].
+
+% [A1] Xi Peng, Zhang Yi, and Huajin Tang,
+%      Robust Subspace Clustering via Thresholding Ridge Regression,
+%      The Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI), Austin, Texas, USA, January 2529, 2015.
+
+% [A2] Xi Peng, Huajin Tang, Lei Zhang, Zhang Yi, and Shijie Xiao,
+%      A Unified Framework for Representation-based Subspace Clustering of Out-of-sample and Large-scale Data,
+%      IEEE Trans. Neural Networks and Learning Systems, accepted.
+
+% If the codes or data sets are helpful to you, please appropriately CITE our works. Thank you very much!
+
+% More materials can be found from my website:
+%            www.machineilab.org/users/pengxi | www.pengxi.me,
+
+%     email: pangsaai [at] gmail [dot] com
+
+% --- If the codes or data sets are helpful to you, please appropriately cite our works. Thank you very much! ---
+%% **************
+
+Based on our scalable representation learning framework, three exsiting methods are extended to handle large scale and out-of-sample data.  More specifically, 
+SLRR: scalable Low rank representation.  
+SSSC: scalable sparse subspace clustering
+SLSR: scalable least square regression.

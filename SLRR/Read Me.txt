@@ -1,0 +1,7 @@
+main.m: the main file of our algorithm;
+main_mean_st.m: to obtain the statistically significant result. Pls refer the parameter setup of the paper.
+InSample.m: cluster in-sample data by performing LRR;
+OutSample.m: group out-of-sample data.
+AnalyzeResult_SLRR.m: compute the clustering quality of SLRR.
+
+if have any problems, please feel free to contact with me via pangsaai@gmail.com

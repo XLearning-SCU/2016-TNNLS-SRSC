@@ -1,0 +1,26 @@
+@ARTICLE{Peng2016:SRSC_full, 
+author={Peng, Xi and Tang, Huajin and Zhang, Lei and Yi, Zhang and Xiao, Shijie}, 
+journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+title={A Unified Framework for Representation-Based Subspace Clustering of Out-of-Sample and Large-Scale Data}, 
+year={2016}, 
+volume={27}, 
+number={12}, 
+pages={2499-2512}, 
+keywords={Clustering algorithms;Clustering methods;Encoding;Error analysis;Laplace equations;Sparse matrices;Yttrium;Error bound analysis;least square regression (LSR);low-rank representation (LRR);out-of-sample problem;scalable subspace clustering;sparse subspace clustering (SSC).}, 
+doi={10.1109/TNNLS.2015.2490080}, 
+ISSN={2162-237X}, 
+month={Dec},}
+
+@ARTICLE{Peng2016:SRSC_abbv, 
+author={Peng, Xi and Tang, Huajin and Zhang, Lei and Yi, Zhang and Xiao, Shijie}, 
+journal={IEEE Trans Neural Netw. Learn. Syst.}, 
+title={A Unified Framework for Representation-Based Subspace Clustering of Out-of-Sample and Large-Scale Data}, 
+year={2016}, 
+volume={27}, 
+number={12}, 
+pages={2499-2512}, 
+keywords={Clustering algorithms;Clustering methods;Encoding;Error analysis;Laplace equations;Sparse matrices;Yttrium;Error bound analysis;least square regression (LSR);low-rank representation (LRR);out-of-sample problem;scalable subspace clustering;sparse subspace clustering (SSC).}, 
+doi={10.1109/TNNLS.2015.2490080}, 
+ISSN={2162-237X}, 
+month={Dec},}
+
