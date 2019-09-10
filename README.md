@@ -1,18 +1,14 @@
 # 2016-TNNLS-SRSC
 A Unified Framework for Representation-based Subspace Clustering of Out-of-sample and Large-scale Data, IEEE Trans Neural Networks and Learning Systems 2016
 
-%% **************
-% the code is provided to repduce our result reported in our paper [A2]. NOTE THAT [A2] is a journal extension of our AAAI'15 paper [A1].
+% the code is provided to repduce our result reported in our paper [1]. NOTE THAT [1] is a journal extension of our AAAI'15 paper [2].  
 
-% If the codes or data sets are helpful to you, please appropriately CITE our works. Thank you very much!
+% If the codes or data sets are helpful to you, please appropriately CITE our works. Thank you very much!  
 
-% More materials can be found from my website:
-%            www.machineilab.org/users/pengxi | www.pengxi.me,
+% More materials can be found from my website:  
+%     www.pengxi.me,  
 
-%     email: pangsaai [at] gmail [dot] com
-
-% --- If the codes or data sets are helpful to you, please appropriately cite our works. Thank you very much! ---
-%% **************
+% --- If the codes or data sets are helpful to you, please appropriately cite our works. Thank you very much! ---  
 
 Based on our scalable representation learning framework, three exsiting methods are extended to handle large scale and out-of-sample data.  More specifically, 
 * SLRR: scalable Low rank representation.  
